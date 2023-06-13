@@ -1,2 +1,59 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	
+}
+
+.box3{
+	flex:1 1 50px;
+	margin:0 10px;
+	background-color:green;
+	height:70px;
+	font-size:50px;
+}
+.box4{
+	flex:1 1 50px;
+	margin:0 10px;
+	background-color:green;
+	height:70px;
+	font-size:50px;
+}
+.box5{
+	flex:1 50px;
+	margin:0 10px;
+	background-color:green;
+	height:70px;
+	font-size:50px;
+}
+.box6{
+	flex:1 1 50px;
+	margin:0 10px;
+	background-color:green;
+	height:70px;
+	font-size:50px;
+}
+.box7{
+	flex:1 1 50px;
+	margin:0 10px;
+	background-color:green;
+	height:70px;
+	font-size:50px;
+}
+.box1{
+	flex:1 1 50px;
+	margin:0 10px;
+	background-color:red;
+	height:70px;
+	font-size:50px;
+	
+}
+.box2{
+	flex:1 1 50px;
+	margin:0 10px;
+	background-color:red;
+	height:70px;
+	font-size:50px;
+}
